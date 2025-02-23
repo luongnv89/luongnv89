@@ -19,3 +19,6 @@ Passionate developer focused on delivering quality software and contributing to 
 ## Connect With Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luongnv89)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/luongnv89)
+
+
+![Page View](https://profile-counter.glitch.me/luongnv89/count.svg)
