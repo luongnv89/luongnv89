@@ -16,29 +16,6 @@ My work spans **network security platforms**, **distributed monitoring systems**
 
 I value **clarity, reliability, and measurable impact** over complexity.
 
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-![Luong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luongnv89&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luongnv89&hide=java,html,css&layout=compact&theme=transparent)
-
-</div>
-
----
-
-### 🏆 Highlights & Recognition
-
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=luongnv89&theme=algolia&no-bg=true&no-frame=true&margin-w=10)
-
-</div>
-
----
-
 _👀 Profile Views (Self-Hosted)_
 
 ![Profile Views](https://profile-counter.luongnv89.workers.dev/?v=1)
