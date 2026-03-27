@@ -1,5 +1,5 @@
-<h2 align="center">Hi, I'm Luong Nguyen 👋</h2>
-<p align="center">Software Engineer — AI, Security, and Build Products</p>
+<h2 align="center">Hi, welcome to my garage 👋</h2>
+<p align="center">Software Engineer — AI, Cybersecurity / Learn, Build, Share and Connect</p>
 
 <p align="center">
   <a href="https://luongnv.com">Website</a> ·
