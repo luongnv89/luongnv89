@@ -16,6 +16,6 @@ My work spans **network security platforms**, **distributed monitoring systems**
 
 I value **clarity, reliability, and measurable impact** over complexity.
 
-_👀 Profile Views (Self-Hosted)_
+_👀 Profile Views (Self-Hosted - sometime it has broken because number of visit, i am on free plan only)_
 
 ![Profile Views](https://profile-counter.luongnv89.workers.dev/?v=1)
