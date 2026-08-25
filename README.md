@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **10+ years of experience** designing and delivering **secure, scalable backend systems** and **AI/LLM-powered applications**.
+Software Engineer with **15+ years of experience** designing and delivering **secure, scalable backend systems** and **AI/LLM-powered applications**.
 My work spans **network security platforms**, **distributed monitoring systems**, and **LLM-driven automation** tools.
 
 I value **clarity, reliability, and measurable impact** over complexity.
