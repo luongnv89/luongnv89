@@ -14,7 +14,7 @@
 
 Software engineer in Paris with **15+ years of experience**, 10+ of them in **network security** at [Montimage](https://www.montimage.eu).
 At work I lead development of MMT-DPI, a deep packet inspection engine written in C, and build **LLM pipelines for security**: fine-tuned small models, LLM-as-judge evaluation and local deployment with Ollama.
-In my own time I build **tools for AI agents**: guides, skills, MCP servers and usage analytics, mostly around Claude Code.
+In my own time I build **tools for AI agents**: guides, skills, MCP servers and usage analytics, mostly around Claude Code. I build them with **[Intention-Driven Development (IDD)](https://luongnv.com/idd/)**, my workflow for turning GitHub issues into work orders an agent can ship.
 
 I value **clarity, reliability, and measurable impact** over complexity.
 
@@ -23,6 +23,7 @@ I value **clarity, reliability, and measurable impact** over complexity.
 | Project | What it does | Stars |
 |---|---|---|
 | [claude-howto](https://github.com/luongnv89/claude-howto) | Visual, example-driven guide to Claude Code, from first prompt to agents, hooks, skills and MCP | ![stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=flat&label=) |
+| **[IDD Stack](https://github.com/luongnv89/idd)** | Intention-Driven Development: eight skills that plan, triage, analyze and resolve GitHub issues, turning each into a tested PR ([website](https://luongnv.com/idd/)) | |
 | [asm](https://github.com/luongnv89/asm) | CLI to install, audit and scan agent skills across 21 coding agents | ![stars](https://img.shields.io/github/stars/luongnv89/asm?style=flat&label=) |
 | [skills](https://github.com/luongnv89/skills) | Reusable skills for AI coding agents | ![stars](https://img.shields.io/github/stars/luongnv89/skills?style=flat&label=) |
 | [context-stats](https://github.com/luongnv89/context-stats) | Claude Code usage analytics: context window, cache efficiency and cost | ![stars](https://img.shields.io/github/stars/luongnv89/context-stats?style=flat&label=) |
